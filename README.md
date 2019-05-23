@@ -2,11 +2,11 @@ INJECTTEST : SIMPLE TEST INJECT PARAMETER FOR WEB VULNERABILITY
 
 Injecttest is simple tool for inject web parameter for test vulnerability (GET/POST)
 
-need:
-sudo gem install lolcat
-sudo apt install curl
+need:<br>
+sudo gem install lolcat<br>
+sudo apt install curl<br>
 
-usage:
-bash injecttest.sh
-choice GET or POST
+usage:<br>
+bash injecttest.sh<br>
+choice GET or POST<br>
 input full traget URL (Exp: http://?/parameter?id=test)
