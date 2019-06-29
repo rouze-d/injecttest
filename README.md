@@ -12,5 +12,5 @@ usage:<br>
 ```
 bash injecttest.sh
 ```
-choice GET or POST<br>
-input full traget URL (Exp: http://?/parameter?id=test)
+## Demo
+[![asciicast](https://asciinema.org/a/254248.svg)](https://asciinema.org/a/254248)
